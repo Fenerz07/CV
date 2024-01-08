@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../Python"
+		},
+		{
+			"path": "../../../../Lycée NSI"
+		},
+		{
+			"path": "../First HTML CSS"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Bataille_Navale"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.sourcePaths": [
+			"GO",
+			""
+		]
+	}
+}
